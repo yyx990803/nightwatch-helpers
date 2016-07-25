@@ -1,0 +1,21 @@
+{
+  "name": "nightwatch-helpers",
+  "version": "1.0.0",
+  "description": "custom assertions and commands for easier nightwatch tests",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyx990803/nightwatch-helpers.git"
+  },
+  "keywords": [
+    "nightwatch",
+    "e2e",
+    "testing"
+  ],
+  "author": "Evan You",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yyx990803/nightwatch-helpers/issues"
+  },
+  "homepage": "https://github.com/yyx990803/nightwatch-helpers#readme"
+}
