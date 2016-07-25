@@ -25,7 +25,7 @@ In your Nightwatch config:
 
 - attributePresent(selector, attr)
 
-- evaluate(fn, [args])
+- evaluate(fn, [args], [message])
 
 - checked(selector, expected)
 
