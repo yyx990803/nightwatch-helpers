@@ -1,5 +1,5 @@
-exports.assertion = function (fn, args) {
-  this.message = 'Testing custom eval...'
+exports.assertion = function (fn, args, msg) {
+  this.message = 'Testing custom eval' + (msg ? ': ' + msg : '...')
   this.expected = true
   this.value = function (res) {
     return res.value
