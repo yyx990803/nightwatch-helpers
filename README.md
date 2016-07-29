@@ -40,3 +40,7 @@ In your Nightwatch config:
 - dblClick(selector)
 
 - waitFor(duration)
+
+- trigger(selector, event, [keyCode])
+
+- enterValue(selector, value)
